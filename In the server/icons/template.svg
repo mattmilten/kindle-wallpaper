@@ -1,29 +1,281 @@
-<svg width="600" height="800" xmlns="http://www.w3.org/2000/svg">
- <g>
-  <g id="svg_22" transform="scale(3.25) translate(5.055 20.166)">ICON_ONE</g>
-  <title>Weather</title>
-  <g font-family="DejaVu Sans" id="weather">
-   <text font-size="35px" y="52.25606" x="150.03906" text-anchor="middle" id="svg_2">TODAY</text>
-   <text font-size="35px" y="121.70689" x="446.26932" text-anchor="middle" id="svg_3">Máxima:</text>
-   <text font-size="100px" y="209.20592" x="526.72095" text-anchor="end" id="svg_6">HIGH_ONE</text>
-   <text font-size="64px" y="182.48717" x="548.30981" text-anchor="middle" id="svg_7">°C</text>
-   <text font-size="35px" y="275.13895" x="440.80057" text-anchor="middle" id="svg_8">Mínima:</text>
-   <text font-size="100px" y="359.8533" x="526.23267" text-anchor="end" id="svg_9">LOW_ONE</text>
-   <text font-size="64px" y="333.13455" x="548.30981" text-anchor="middle" id="svg_10">°C</text>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="600"
+   height="800"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="template.svg">
+  <metadata
+     id="metadata35">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs33" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1097"
+     inkscape:window-height="554"
+     id="namedview31"
+     showgrid="false"
+     inkscape:zoom="0.59"
+     inkscape:cx="267.94556"
+     inkscape:cy="404.60146"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g4" />
+  <g
+     id="g4">
+    <g
+       id="svg_22"
+       transform="scale(3.25) translate(5.055 20.166)">ICON_ONE</g>
+    <title
+       id="title7">Weather</title>
+    <g
+       font-family="DejaVu Sans"
+       id="weather">
+      <text
+         font-size="35px"
+         y="52.25606"
+         x="150.03906"
+         text-anchor="middle"
+         id="svg_2">TODAY</text>
+      <text
+         font-size="35px"
+         y="121.70689"
+         x="446.26932"
+         id="svg_3"
+         style="font-size:35px;text-anchor:middle">Max:</text>
+      <text
+         font-size="100px"
+         y="209.20592"
+         x="526.72095"
+         text-anchor="end"
+         id="svg_6">HIGH_ONE</text>
+      <text
+         font-size="64px"
+         y="182.48717"
+         x="548.30981"
+         text-anchor="middle"
+         id="svg_7">°C</text>
+      <text
+         font-size="35px"
+         y="275.13895"
+         x="440.80057"
+         id="svg_8"
+         style="font-size:35px;text-anchor:middle">Min:</text>
+      <text
+         font-size="100px"
+         y="359.8533"
+         x="526.23267"
+         text-anchor="end"
+         id="svg_9">LOW_ONE</text>
+      <text
+         font-size="64px"
+         y="333.13455"
+         x="548.30981"
+         text-anchor="middle"
+         id="svg_10">°C</text>
+    </g>
+    <text
+       font-size="32px"
+       y="465.16922"
+       x="102.92969"
+       id="svg_4"
+       style="font-size:32px;text-anchor:middle;fill:#000000">To Do:</text>
+    <path
+       d="m329,470.350006l0,321.500031l3,0l0,-321.500031l-3,0z"
+       id="svg_5"
+       fill="black" />
+    <text
+       xml:space="preserve"
+       text-anchor="middle"
+       font-family="null"
+       font-size="17"
+       id="svg_1"
+       y="529"
+       x="100"
+       stroke-linecap="null"
+       stroke-linejoin="null"
+       stroke-dasharray="null"
+       stroke-width="null"
+       fill="black"
+       font-weight="bold">hour0</text>
+    <text
+       id="svg_11"
+       xml:space="preserve"
+       text-anchor="middle"
+       font-family="null"
+       font-size="17"
+       y="579"
+       x="100"
+       stroke-linecap="null"
+       stroke-linejoin="null"
+       stroke-dasharray="null"
+       stroke-width="null"
+       fill="black"
+       font-weight="bold">hour1</text>
+    <text
+       id="svg_12"
+       xml:space="preserve"
+       text-anchor="middle"
+       font-family="null"
+       font-size="17"
+       y="636"
+       x="100"
+       stroke-linecap="null"
+       stroke-linejoin="null"
+       stroke-dasharray="null"
+       stroke-width="null"
+       fill="black"
+       font-weight="bold">hour2</text>
+    <text
+       id="svg_13"
+       xml:space="preserve"
+       text-anchor="middle"
+       font-family="null"
+       font-size="17"
+       y="692"
+       x="100"
+       stroke-linecap="null"
+       stroke-linejoin="null"
+       stroke-dasharray="null"
+       stroke-width="null"
+       fill="black"
+       font-weight="bold">hour3</text>
+    <text
+       id="svg_14"
+       xml:space="preserve"
+       text-anchor="middle"
+       font-family="null"
+       font-size="17"
+       y="751"
+       x="100"
+       stroke-linecap="null"
+       stroke-linejoin="null"
+       stroke-dasharray="null"
+       stroke-width="null"
+       fill="black"
+       font-weight="bold">hour4</text>
+    <text
+       font-weight="normal"
+       xml:space="preserve"
+       text-anchor="start"
+       font-family="null"
+       font-size="17"
+       id="svg_15"
+       y="529"
+       x="170"
+       stroke-linecap="null"
+       stroke-linejoin="null"
+       stroke-dasharray="null"
+       stroke-width="null"
+       fill="black">Name0</text>
+    <text
+       id="svg_16"
+       font-weight="normal"
+       xml:space="preserve"
+       text-anchor="start"
+       font-family="null"
+       font-size="17"
+       y="579"
+       x="170"
+       stroke-linecap="null"
+       stroke-linejoin="null"
+       stroke-dasharray="null"
+       stroke-width="null"
+       fill="black">Name1</text>
+    <text
+       id="svg_17"
+       font-weight="normal"
+       xml:space="preserve"
+       text-anchor="start"
+       font-family="null"
+       font-size="17"
+       y="636"
+       x="170"
+       stroke-linecap="null"
+       stroke-linejoin="null"
+       stroke-dasharray="null"
+       stroke-width="null"
+       fill="black">Name2</text>
+    <text
+       id="svg_18"
+       font-weight="normal"
+       xml:space="preserve"
+       text-anchor="start"
+       font-family="null"
+       font-size="17"
+       y="692"
+       x="170"
+       stroke-linecap="null"
+       stroke-linejoin="null"
+       stroke-dasharray="null"
+       stroke-width="null"
+       fill="black">Name3</text>
+    <text
+       id="svg_19"
+       font-weight="normal"
+       xml:space="preserve"
+       text-anchor="start"
+       font-family="null"
+       font-size="17"
+       y="751"
+       x="170"
+       stroke-linecap="null"
+       stroke-linejoin="null"
+       stroke-dasharray="null"
+       stroke-width="null"
+       fill="black">Name4</text>
+    <text
+       id="svg_20"
+       font-weight="normal"
+       xml:space="preserve"
+       text-anchor="start"
+       font-family="null"
+       font-size="17"
+       y="529"
+       x="350"
+       stroke-linecap="null"
+       stroke-linejoin="null"
+       stroke-dasharray="null"
+       stroke-width="null"
+       fill="black">AllDay0</text>
+    <text
+       id="svg_21"
+       font-weight="normal"
+       xml:space="preserve"
+       text-anchor="start"
+       font-family="null"
+       font-size="17"
+       y="579"
+       x="350"
+       stroke-linecap="null"
+       stroke-linejoin="null"
+       stroke-dasharray="null"
+       stroke-width="null"
+       fill="black">AllDay1</text>
   </g>
-  <text fill="black" font-size="32px" y="465.16922" x="102.92969" text-anchor="middle" id="svg_4">Tareas:</text>
-  <path d="m329,470.350006l0,321.500031l3,0l0,-321.500031l-3,0z" id="svg_5" fill="black"/>
-  <text xml:space="preserve" text-anchor="middle" font-family="null" font-size="17" id="svg_1" y="529" x="100" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="null" fill="black" font-weight="bold">hour0</text>
-  <text id="svg_11" xml:space="preserve" text-anchor="middle" font-family="null" font-size="17" y="579" x="100" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="null" fill="black" font-weight="bold">hour1</text>
-  <text id="svg_12" xml:space="preserve" text-anchor="middle" font-family="null" font-size="17" y="636" x="100" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="null" fill="black" font-weight="bold">hour2</text>
-  <text id="svg_13" xml:space="preserve" text-anchor="middle" font-family="null" font-size="17" y="692" x="100" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="null" fill="black" font-weight="bold">hour3</text>
-  <text id="svg_14" xml:space="preserve" text-anchor="middle" font-family="null" font-size="17" y="751" x="100" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="null" fill="black" font-weight="bold">hour4</text>
-  <text font-weight="normal" xml:space="preserve" text-anchor="start" font-family="null" font-size="17" id="svg_15" y="529" x="170" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="null" fill="black">Name0</text>
-  <text id="svg_16" font-weight="normal" xml:space="preserve" text-anchor="start" font-family="null" font-size="17" y="579" x="170" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="null" fill="black">Name1</text>
-  <text id="svg_17" font-weight="normal" xml:space="preserve" text-anchor="start" font-family="null" font-size="17" y="636" x="170" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="null" fill="black">Name2</text>
-  <text id="svg_18" font-weight="normal" xml:space="preserve" text-anchor="start" font-family="null" font-size="17" y="692" x="170" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="null" fill="black">Name3</text>
-  <text id="svg_19" font-weight="normal" xml:space="preserve" text-anchor="start" font-family="null" font-size="17" y="751" x="170" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="null" fill="black">Name4</text>
-  <text id="svg_20" font-weight="normal" xml:space="preserve" text-anchor="start" font-family="null" font-size="17" y="529" x="350" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="null" fill="black">AllDay0</text>
-  <text id="svg_21" font-weight="normal" xml:space="preserve" text-anchor="start" font-family="null" font-size="17" y="579" x="350" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="null" fill="black">AllDay1</text>
- </g>
 </svg>
